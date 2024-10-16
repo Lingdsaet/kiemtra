@@ -15,7 +15,7 @@ const OnboardingScreen = ({ navigation }) => {
       <View style={styles.overlay}>
         {/* Khu vực chứa logo, tiêu đề, phụ đề và nút */}
         <View style={styles.content}>
-          <Image source={require('./assets/carrot.png')} style={styles.logo} />
+          <Image source={require('./assets/Remove-bg.ai_1729083667745.png')} style={styles.logo} />
           <Text style={styles.title}>Welcome to our store</Text>
           <Text style={styles.subtitle}>
             Get your groceries in as fast as one hour
